@@ -24,41 +24,11 @@ Bem-vindo ao repositório onde exploramos **Python** como a principal ferramenta
 
 ---
 
-## 🚀 Como Usar
-
-1. **Clone este repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
-2. **Instale os requisitos necessários**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Explore os notebooks e exercícios disponíveis!
-
----
-
 ## 🎯 Objetivos  
 
 - Introduzir ferramentas essenciais para análise de dados em Python.  
 - Desenvolver habilidades práticas com NumPy e Pandas.  
 - Resolver problemas reais através de exercícios guiados.  
-
----
-
-## 🚀 Como Usar  
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
-2. Instale as dependências necessárias (certifique-se de ter Python 3.x):
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Explore as pastas de acordo com os tópicos abordados.
 
 ---
 
