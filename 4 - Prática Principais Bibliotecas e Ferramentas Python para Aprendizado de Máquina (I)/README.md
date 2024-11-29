@@ -1,6 +1,6 @@
 # 📊 Python para Análise de Dados e Aprendizado de Máquina  
 
-Bem-vindo ao repositório onde exploramos **Python** como a principal ferramenta para **análise de dados** e **aprendizado de máquina**. Aqui, você encontrará conteúdos organizados sobre as bibliotecas mais usadas no ecossistema de ciência de dados, incluindo **NumPy** e **Pandas**, além de exercícios práticos e soluções.
+Repositório onde exploro **Python** como a principal ferramenta para **análise de dados** e **aprendizado de máquina**.
 
 ---
 
