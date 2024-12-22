@@ -23,11 +23,7 @@ Este repositório contém os materiais, projetos e atividades desenvolvidos ao l
   - Plataformas como Google Colab e Jupyter Notebooks  
 
 ### Como Usar este Repositório  
-1. Clone o repositório:  
-   ```bash  
-   git clone https://github.com/seu-usuario/lamia.git  
-   ```  
-2. Navegue pelos diretórios para explorar o material de estudo, projetos e exemplos práticos.  
-3. Leia os arquivos de instruções (quando aplicável) dentro de cada pasta para entender os passos necessários para replicar os exemplos.  
+1. Navegue pelos diretórios para explorar o material de estudo, projetos e exemplos práticos.  
+2. Leia os arquivos de instruções (quando aplicável) dentro de cada pasta para entender os passos necessários para replicar os exemplos.  
 
 ---
